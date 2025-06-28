@@ -1,0 +1,11 @@
+Product,Region,Sales,Profit,Discount,Category,Date
+Laptop,North,2000,200,0.1,Technology,1/31/2024
+Printer,South,1500,180,0.2,Office Supplies,2/29/2024
+Tablet,East,1200,150,0.15,Technology,3/31/2024
+Monitor,West,1000,100,0.05,Technology,4/30/2024
+Chair,North,800,90,0.1,Furniture,5/31/2024
+Desk,South,1600,200,0.25,Furniture,6/30/2024
+Pen,East,200,20,0,Office Supplies,7/31/2024
+Notebook,West,300,30,0.1,Office Supplies,8/31/2024
+Phone,North,2500,300,0.05,Technology,9/30/2024
+Headphones,South,700,70,0.1,Technology,10/31/2024
